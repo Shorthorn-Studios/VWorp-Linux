@@ -4,3 +4,4 @@
 64-Bit PC
 Internet Connection (For Installation)
 8GB HDD
+Thanks
